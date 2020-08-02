@@ -307,6 +307,8 @@ Notes:
 
 ---
 
+`mania-noteSH.png`
+
 ![](img/mania-noteSH.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
